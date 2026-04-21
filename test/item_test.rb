@@ -56,4 +56,3 @@ class ItemTest < Minitest::Test
     assert_equal 3, ranks.uniq.size
   end
 end
-
